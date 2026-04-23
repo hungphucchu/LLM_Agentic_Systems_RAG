@@ -11,6 +11,8 @@ The project builds an end-to-end Retrieval Augmented Generation pipeline over Py
 5. Generate grounded answers with citations formatted as `repo/path::func_name`.
 6. Add local custom Python functions and rerun targeted and cross-corpus queries.
 
+For the full report, generated result-table discussion, and reflection, see [REPORT.md](REPORT.md).
+
 ## Track Declaration
 
 - **Chosen track:** Track B, Code RAG
@@ -18,7 +20,7 @@ The project builds an end-to-end Retrieval Augmented Generation pipeline over Py
 - **Embedding model:** `sentence-transformers/all-MiniLM-L6-v2`
 - **Vector database:** Chroma persistent client
 - **Default top k:** 4
-- **Generator:** OpenAI-compatible chat endpoint
+- **Generator model:** UTSA OpenAI-compatible `Qwen/Qwen3-8B` endpoint
 
 ## Project Layout
 
