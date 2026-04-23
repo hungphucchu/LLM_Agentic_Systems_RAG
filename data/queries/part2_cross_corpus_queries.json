@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p2_c01",
+    "text": "How can Python code normalize text labels before using them as identifiers?"
+  },
+  {
+    "id": "p2_c02",
+    "text": "How can code compute summary values over a moving numeric window?"
+  },
+  {
+    "id": "p2_c03",
+    "text": "How can a function validate dictionary fields before serializing JSON?"
+  },
+  {
+    "id": "p2_c04",
+    "text": "How can code compact a chat transcript to the last few turns before sending it to a language model?"
+  },
+  {
+    "id": "p2_c05",
+    "text": "How can retrieval results be ranked or filtered before generating an answer?"
+  }
+]

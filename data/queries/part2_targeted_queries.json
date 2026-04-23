@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p2_t01",
+    "text": "Which local function converts a messy label into a stable snake case identifier?"
+  },
+  {
+    "id": "p2_t02",
+    "text": "Which custom function computes rolling window averages over numeric values?"
+  },
+  {
+    "id": "p2_t03",
+    "text": "Which function reports missing keys when a JSON-like record does not satisfy a schema?"
+  },
+  {
+    "id": "p2_t04",
+    "text": "Which custom function compacts a chat transcript into the last few turns?"
+  },
+  {
+    "id": "p2_t05",
+    "text": "Which function reranks retrieval hits using distance and citation confidence?"
+  }
+]
+

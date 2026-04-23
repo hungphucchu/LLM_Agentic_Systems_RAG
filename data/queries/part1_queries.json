@@ -1,0 +1,43 @@
+[
+  {
+    "id": "p1_q01",
+    "text": "How can Python code read data from a file-like object?"
+  },
+  {
+    "id": "p1_q02",
+    "text": "How can a Python function validate input arguments before processing?"
+  },
+  {
+    "id": "p1_q03",
+    "text": "How can Python code build an HTTP request or parse an HTTP response?"
+  },
+  {
+    "id": "p1_q04",
+    "text": "How can a Python function convert a date or time string into a structured value?"
+  },
+  {
+    "id": "p1_q05",
+    "text": "How can Python code serialize or deserialize JSON data?"
+  },
+  {
+    "id": "p1_q06",
+    "text": "How can a Python function iterate over records from a collection?"
+  },
+  {
+    "id": "p1_q07",
+    "text": "How can Python code handle exceptions when a network request fails?"
+  },
+  {
+    "id": "p1_q08",
+    "text": "How can a Python function normalize or clean text before later processing?"
+  },
+  {
+    "id": "p1_q09",
+    "text": "How can Python code compute a summary statistic from a sequence of numbers?"
+  },
+  {
+    "id": "p1_q10",
+    "text": "How can a Python function construct a reusable command line option?"
+  }
+]
+
